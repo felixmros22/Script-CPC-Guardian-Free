@@ -4,13 +4,21 @@ Script CPC Guardian
 Optimiza tu Publicidad en Google Ads con Este Script Exclusivo.
 
 🔍 Descubre cómo este script puede ayudarte a reducir costos y mejorar el rendimiento de tus campañas.
+
 📌 Beneficios del Script
+
 ✅ Detecta automáticamente aumentos en el CPC y envía alertas para que actúes rápido.
+
 ✅ Guarda un historial de CPC en Google Sheets para analizar tendencias.
+
 ✅ Automatiza la supervisión de tus campañas, ahorrándote tiempo y dinero.
+
 ✅ Configuración fácil y rápida: copia, pega y ejecuta en Google Ads.
+
 💡 No dejes que tu presupuesto se desperdicie. Controla el rendimiento de tus anuncios con este script gratuito.
+
 ✅ Este script ha sido probado en múltiples cuentas publicitarias, logrando optimizar costos y mejorar resultados en Google Ads.
+
 
 👉 Descárgalo ahora y comienza a optimizar tus campañas hoy mismo.
 
